@@ -306,6 +306,12 @@ Narzędzia AI do wyszukiwania, analizy i nauki na bazie treści naukowych oraz e
 
 Narzędzia AI do przepływów pracy, prezentacji, automatyzacji i produktywności biznesowej.
 
+
+- **Harpa – wtyczka do przeglądarki**  
+  https://harpa.ai/
+  
+  Wtyczka do przeglądarki z różnymi modelami pod spodem.
+  
 - **Slidesgo – szablony prezentacji**  
   https://slidesgo.com/  
   Obszerna biblioteka darmowych szablonów prezentacji dla Google Slides i Microsoft PowerPoint, obejmująca szeroką gamę stylów i tematów. Umożliwia szybkie tworzenie zawodowo wyglądających slajdów bez projektowania od zera.
