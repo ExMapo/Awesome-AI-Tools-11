@@ -364,6 +364,9 @@ Narzędzia AI do przepływów pracy, prezentacji, automatyzacji i produktywnośc
   https://fireflies.ai/  
   Inteligentny asystent spotkań, który automatycznie nagrywa, transkrybuje i podsumowuje rozmowy prowadzone na popularnych platformach (Zoom, Google Meet itd.). Dzięki zaawansowanej wyszukiwarce AI pozwala szybko odnajdywać kluczowe momenty (zadania, pytania itd.).
 
+- **[MindMap AI](https://mindmapai.app/ai-mindmap-maker) – wizualne mapy myśli z AI**  
+  Narzędzie AI do tworzenia map myśli, które przekształca tekst, dokumenty, PDF-y, wideo, audio, obrazy i materiały badawcze w uporządkowane, wizualne mapy. Pomaga organizować pomysły, upraszczać złożone informacje i tworzyć jasne plany do nauki, researchu oraz pracy kreatywnej.
+
 - **Exploding Topics – wykrywanie trendów**  
   https://explodingtopics.com/  
   Narzędzie analityczne identyfikujące wschodzące trendy zanim staną się masowe. Pomaga marketerom i przedsiębiorcom wcześnie wychwytywać rosnące zainteresowanie tematami na podstawie analizy danych z wielu źródeł.
